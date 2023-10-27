@@ -1,4 +1,4 @@
-# Hand_Gesture_Volume_Controller# Hand_Gesture_Volume_Controller
+# Hand_Gesture_Volume_Controller
 ### Modules Required 
 
 - cv2
